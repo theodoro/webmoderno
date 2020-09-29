@@ -6,7 +6,6 @@ for (x in nums){
     }
     console.log(`x = ${nums[x]}`)
 }
-
 for (y in nums){
     if(y == 5){
         continue
